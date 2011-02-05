@@ -9,8 +9,8 @@ http.createServer(function(req, res){
 
 	var browser = soda.createSauceClient({
 		"url": 'http://www.facebook.com',
-		'username' : 'kevisazombie',
-		'access-key' : 'b7589f7b-4456-4ffa-b5fb-345824a1f7af',
+		'username' : '',
+		'access-key' : '',
 		'os' : 'Windows 2003',
 		'browser': 'firefox',
 		'job-name': 'speed-test_closure-20_push_no_wait'
